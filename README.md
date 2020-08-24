@@ -2,3 +2,8 @@
 A demo repository for the atlas workshop.
 
 I will be more to this repository as we learn about more features.
+
+## About
+
+* Author: Luis Felipe Gutierrez
+* fun fact: snakes dont have ears
